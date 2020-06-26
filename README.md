@@ -1,7 +1,9 @@
 # 💬Text-generator
-Just a bunch of words and names for the next-level random text generators
+Text generator that generates quotable phrases from a random set of words, trying to have it write coherent sentences.
 
 
-Pre-release 20w26c now out!
+
+
+Pre-release 20w26d now out!
 
 click on the tag icon to see all snapshots and releases
